@@ -1,0 +1,8 @@
+{
+    "tag_name": "v0.8.3",
+    "assets": [
+        {
+            "browser_download_url": "https://github.com/vpslinuxinstall/rclone-webui-angular/releases/download/v1/embed.zip"
+        }
+    ]
+}
